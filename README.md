@@ -1,5 +1,4 @@
 # 💫About Me :
-I am currently preparing for the EJPT exam
 I am a master of python
 Currently taking a step toward the cybersecurity industry
 Ask me about any cybersec-related stuff.
