@@ -1,7 +1,7 @@
 # 💫About Me :
 I am a master of python
-Currently taking a step toward the cybersecurity industry
-Ask me about any cybersec-related stuff.
+Currently taking a step toward the Data industry
+Ask me about any data-related stuff.
 How to reach me: Email-coderarth@gmail.com
 
 ## 🌐Socials
